@@ -2,8 +2,8 @@
 Simple [API](https://en.wikipedia.org/wiki/Application_programming_interface
 ) for capturing voice for use on the browser.
 > Note: 
- - `webkitSpeechRecognition` must be available in **window** for this API to be functional
- - Development of this library is still **highly in progress**
+   `webkitSpeechRecognition` must be available in **window** for this API to be functional
+   Development of this library is still **highly in progress**
 
 ### Installation
 - Clone this repo `git clone https://github.com/dare-mcadewole/speech-api-js.git`
