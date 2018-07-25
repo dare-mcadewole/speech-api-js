@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Speech Recognition API Playground</title>
+		<script type="text/javascript" src="../lib/speechapi.js"></script>
+	</head>
+	<body>
+		<h1>Speech Recognition API Playground</h1>
+		<code>
+			Open the developer console to see API in action
+		</code>
+		<script>
+			(function(){
+				var speech = new SpeechAPI();
+				speech.start();
+				// speech.stop();
+			})();
+		</script>
+	</body>
+</html>
